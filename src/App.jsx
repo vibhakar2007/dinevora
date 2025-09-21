@@ -8,6 +8,7 @@ import Expertise from './components/Expertise';
 import Review from './components/Review';
 import Contact from './components/ContactSection';
 import Footer from './components/Footer';
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const App = () => {
   return (
