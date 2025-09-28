@@ -32,7 +32,7 @@ The project aims to provide a smooth, engaging experience for visitors to explor
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dinevora.git
+git clone https://github.com/vibhakar2007/dinevora.git
 cd dinevora
 ```
 ---
